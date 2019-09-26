@@ -31,6 +31,7 @@ nextApp.prepare().then(() => {
     res.json(messages[req.params.chat])
   })
 
+  
   app.get('*', (req, res) => {
     return nextHandler(req, res)
   })
