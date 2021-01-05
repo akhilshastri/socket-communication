@@ -4,7 +4,7 @@
   "dependencies": {
     "@zeit/next-css": "^1.0.1",
     "antd": "^3.23.4",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "babel-plugin-import": "^1.12.2",
     "express": "^4.15.2",
     "isomorphic-unfetch": "^2.0.0",
